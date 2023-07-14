@@ -1,0 +1,106 @@
+{"//Crop Type Strings": "यहां क्रॉप टाइप स्ट्रिंग्स हैं ...",
+"selectCropType": "क्रॉप टाइप चुनें",
+"standingCrop": "खड़ी हुई फसल",
+"harvested": "कटाई गई",
+"warehoused": "गोदाम में संग्रहित",
+
+"//Standing Crop Strings": "यहां स्टैंडिंग क्रॉप स्ट्रिंग्स हैं ...",
+"selectStandingCropType": "स्टैंडिंग क्रॉप का प्रकार चुनें",
+"fewWeeks": "कुछ हफ्ते",
+"fewMonths": "कुछ महीने",
+
+"//Plot Your Farm Strings": "यहां प्लॉट योर फार्म स्क्रीन स्ट्रिंग्स हैं ...",
+"plotYrFarm": "अपने खेत का नक्शा बनाएं",
+"yourLocation":"आपका स्थान",
+
+"//Schedule Screen Strings": "यहां शेड्यूल स्क्रीन स्ट्रिंग्स हैं ...",
+"schedule": "मीटिंग का शेड्यूल",
+
+"//Single Tender Screen": "यहां सिंगल टेंडर स्क्रीन स्ट्रिंग्स हैं ...",
+"eMailAddress": "ईमेल पता",
+"setPrice":"मूल्य सेट करें",
+"setAdvance":"अग्रिम सेट करें",
+
+"//Enter Quanity Screen" : "यहां एंटर क्वांटिटी स्क्रीन स्ट्रिंग्स हैं ...",
+"marketPrice" : "बाजार कीमत",
+"perTons" : "प्रति टन",
+"km" : "किलोमीटर",
+"kg" : "किलोग्राम",
+"ourPrice" : "हमारी कीमत",
+"taxesExtra" : "अतिरिक्त कर",
+"enterQuantity" : "मात्रा दर्ज करें",
+"quantity" : "मात्रा",
+"total" : "कुल",
+"rUFarmerOrTrader" : "क्या आप किसान हैं या व्यापारी?",
+"farmer" : "किसान",
+"trader" : "व्यापारी",
+
+
+"//Payment Status Screen" : "यहां पेमेंट स्थिति स्क्रीन स्ट्रिंग्स हैं ...",
+"paymentSuccessful": "भुगतान सफल",
+"paymentSuccessDescription": "आपका सत्यापन यात्रा की तारीख के लिए निर्धारित किया गया है ",
+"grandTotal": "कुल योग",
+"dueAmount": "बकाया राशि",
+"chargesBreakup": "शुल्क विभाजन",
+"totalPrice": "कुल मूल्य",
+"expectedAmount": "अपेक्षित राशि",
+"paymentFailedTitle": "भुगतान विफल",
+"paymentFailedDescription": "भुगतान विफल हुआ है, कृपया पुनः प्रयास करें।",
+"paymentFailedReason" : "त्रुटि :",
+
+
+
+"//Payment Screen": "यहां पेमेंट स्क्रीन स्ट्रिंग्स हैं ...",
+"verificationCharge": "सत्यापन शुल्क", 
+"details": "विवरण",
+"landDocumentVerification": "भूमि दस्तावेज़ सत्यापन",
+"fieldVerification": "खेत सत्यापन",
+"qualityAssessment": "गुणवत्ता मूल्यांकन",
+"visit": "यात्रा",
+"acre": "एकड़",
+"tonne" : "टन",
+
+"//Bank Details Screen": "यहां बैंक विवरण स्क्रीन स्ट्रिंग्स हैं ...",
+"bankDetails":"बैंक विवरण",
+"accountInformation":"खाता सूचना",
+"accountNumber":"खाता संख्या",
+"accountHolderName":"खाताधारक का नाम",
+"bankInformation":"बैंक सूचना",
+"ifscCode":"IFSC कोड",
+"bank":"बैंक",
+"branch":"शाखा",
+
+
+"//App Validation Messages" : "यहां ऐप की प्रमाणीकरण संदेश हैं ...",
+"emptyEmailMsg" : "कृपया ईमेल पता दर्ज करें।",
+"emptyPricelMsg" : "कृपया मूल्य सेट करें।",
+"emptyAdvanceMsg" : "कृपया अग्रिम सेट करें।",
+
+
+
+
+"//Common": "यहां सामान्य विजेट पाठ हैं ...",
+"next": "आगे",
+"retry": "पुनः प्रयास करें",
+
+"//Schedule Charges Screen" : "यहां शेड्यूल शुल्क स्क्रीन स्ट्रिंग्स हैं ...",
+"strVerificationCharges": "सत्यापन शुल्क",
+"strVisitingFreeCharge": "यात्रा शुल्क फ्री",
+"strVisitFree": "यात्रा शुल्क",
+"strChargesPerTonne": "टन के लिए शुल्क",
+"strTax": "कर",
+"strTotal": "कुल",
+"strGrandTotal": "कुल योग",
+"strPayNow" : "अब पेमेंट करें",
+
+
+"//Select Warehouse Screen" : "यहां वेयरहाउस स्क्रीन स्ट्रिंग्स हैं ...",
+"updateWarehouseDetails" : "वेयरहाउस विवरण अपडेट करें",
+"notFound":"खोजा नहीं गया?",
+"addYourOwn":"अपना खुद का जोड़ें",
+"warehouseCode":"वेयरहाउस कोड",
+"warehouseName":"वेयरहाउस का नाम",
+"phone":"फ़ोन नंबर",
+"state":"राज्य",
+"submit": "सबमिट करें"
+}
